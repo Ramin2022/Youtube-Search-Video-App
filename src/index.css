@@ -1,0 +1,36 @@
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+
+div#root {
+  background-color: #212529;
+}
+
+div.app{
+    height: 100%;
+}
+
+#thumbnailCard{
+    background-color: #30353a;
+    height: 110px;
+}
+#detail{
+    background-color: #2b2f33;
+}
+
+#spinner{
+    position: absolute;
+    top: 25%;
+    left: 45%;
+}
+
+@media screen and (min-width: 992px) {
+    div.app {
+      background-color:#212529;
+      height: 100vh;
+    }
+  }
