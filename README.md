@@ -8,3 +8,6 @@
 - Redux Toolkit
 - Bootstrap
 - Axios
+
+### Note: 
+  - You should use your own youtube API Key.
